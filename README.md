@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushmitha10500" alt="sushmitha10500" /></a> </p>
 
 
-- 🌱 I’m **Data Science**
+- 🌱 I’m **Data Science** Intern
 
 - 📫 How to reach me **nsushma10500@gmail.com**
 
