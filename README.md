@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushmitha10500" alt="sushmitha10500" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **nsushma10500@gmail.com**
