@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neelam Sushmitha</h1>
-<h3 align="center">🔬Aspiring Data Scientist | AI & ML Enthusiast</h3>
+<h3 align="center">🔬Data Science Intern
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushmitha10500&label=Profile%20views&color=0e75b6&style=flat" alt="sushmitha10500" /> </p>
 
