@@ -5,9 +5,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushmitha10500" alt="sushmitha10500" /></a> </p>
 
 
-- 🌱 I’m **Data Science** Intern
+- 🌱 **Data Science** 
 
-- 📫 How to reach me **nsushma10500@gmail.com**
+- 📫 How to reach me **shushmitha199@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
